@@ -1,4 +1,4 @@
-# jd_auto_buyer
+# JD Auto Buyer
 
 自动化京东商品购买工具。
 

@@ -1,0 +1,189 @@
+2025-05-12 13:59:10.327 | INFO     | __main__:main:345 - Starting JD Auto Buyer
+2025-05-12 13:59:10.328 | WARNING  | __main__:main:349 - Username or password not set in environment variables. QR code login will be required.
+2025-05-12 13:59:10.328 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 13:59:11.869 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 13:59:11.869 | INFO     | __main__:login:57 - No valid cookies found, attempting login via QR code...
+2025-05-12 13:59:15.099 | INFO     | __main__:login:72 - QR code saved to /Users/mingweili/72hours/jd_auto_buyer/screenshots/qr_code.png
+2025-05-12 13:59:15.099 | INFO     | __main__:login:73 - Please scan the QR code with your JD app to login
+2025-05-12 13:59:56.340 | INFO     | __main__:main:345 - Starting JD Auto Buyer
+2025-05-12 13:59:56.340 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 13:59:57.126 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 13:59:57.127 | INFO     | __main__:login:57 - No valid cookies found, attempting login via QR code...
+2025-05-12 13:59:58.446 | INFO     | __main__:login:72 - QR code saved to /Users/mingweili/72hours/jd_auto_buyer/screenshots/qr_code.png
+2025-05-12 13:59:58.446 | INFO     | __main__:login:73 - Please scan the QR code with your JD app to login
+2025-05-12 15:51:49.577 | INFO     | __main__:main:404 - Starting JD Auto Buyer
+2025-05-12 15:51:49.577 | INFO     | __main__:main:408 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 15:51:49.577 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 15:51:51.283 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 15:51:51.283 | INFO     | __main__:login:57 - No valid cookies found, attempting login...
+2025-05-12 15:51:52.388 | INFO     | __main__:login:64 - Attempting login with username and password
+2025-05-12 15:51:54.291 | ERROR    | __main__:login:146 - Login failed: Page.query_selector() got an unexpected keyword argument 'timeout'
+2025-05-12 15:51:54.292 | ERROR    | __main__:run:370 - Login failed, exiting
+2025-05-12 15:51:54.386 | INFO     | __main__:close:49 - Browser closed
+2025-05-12 15:53:26.931 | INFO     | __main__:main:408 - Starting JD Auto Buyer
+2025-05-12 15:53:26.931 | INFO     | __main__:main:412 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 15:53:26.932 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 15:53:28.437 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 15:53:28.438 | INFO     | __main__:login:57 - No valid cookies found, attempting login...
+2025-05-12 15:53:29.496 | INFO     | __main__:login:64 - Attempting login with username and password
+2025-05-12 15:53:30.218 | WARNING  | __main__:login:88 - Slide verification detected. Please complete it manually.
+2025-05-12 15:53:30.440 | INFO     | __main__:login:91 - Verification screenshot saved to /Users/mingweili/72hours/jd_auto_buyer/screenshots/slide_verification.png
+2025-05-12 15:53:34.778 | INFO     | __main__:login:95 - Verification completed and login successful!
+2025-05-12 15:53:34.783 | INFO     | __main__:_save_cookies:158 - Cookies saved
+2025-05-12 15:53:34.783 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 15:53:50.446 | ERROR    | __main__:search_product:230 - Error searching for 泡面: Timeout 15000ms exceeded.
+2025-05-12 15:53:50.449 | WARNING  | __main__:run:381 - No products found for 泡面
+2025-05-12 15:53:50.449 | INFO     | __main__:checkout:322 - Navigating to cart...
+2025-05-12 15:53:51.542 | ERROR    | __main__:checkout:342 - Checkout button not found
+2025-05-12 15:53:51.630 | INFO     | __main__:close:49 - Browser closed
+2025-05-12 15:56:03.738 | INFO     | __main__:main:408 - Starting JD Auto Buyer
+2025-05-12 15:56:03.739 | INFO     | __main__:main:412 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 15:56:03.739 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 15:56:05.141 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 15:56:06.514 | INFO     | __main__:login:54 - Successfully logged in with cookies
+2025-05-12 15:56:06.514 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 15:59:25.614 | ERROR    | __main__:search_product:230 - Error searching for 泡面: Target page, context or browser has been closed
+2025-05-12 15:59:25.615 | WARNING  | __main__:run:381 - No products found for 泡面
+2025-05-12 15:59:25.616 | INFO     | __main__:checkout:322 - Navigating to cart...
+2025-05-12 15:59:25.624 | ERROR    | __main__:checkout:365 - Error during checkout: Target page, context or browser has been closed
+2025-05-12 15:59:25.730 | INFO     | __main__:close:49 - Browser closed
+2025-05-12 16:01:33.245 | INFO     | __main__:main:408 - Starting JD Auto Buyer
+2025-05-12 16:01:33.245 | INFO     | __main__:main:412 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:01:33.245 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:01:34.676 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:01:35.928 | INFO     | __main__:login:54 - Successfully logged in with cookies
+2025-05-12 16:01:35.929 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 16:07:25.686 | INFO     | __main__:main:434 - Starting JD Auto Buyer
+2025-05-12 16:07:25.686 | INFO     | __main__:main:438 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:07:25.686 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:07:27.202 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:07:28.743 | INFO     | __main__:login:54 - Successfully logged in with cookies
+2025-05-12 16:07:28.743 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 16:10:28.993 | ERROR    | __main__:search_product:230 - Error searching for 泡面: Target page, context or browser has been closed
+2025-05-12 16:10:28.994 | WARNING  | __main__:run:403 - No products found for 泡面
+2025-05-12 16:10:28.994 | INFO     | __main__:navigate_to_cart:321 - Navigating to shopping cart...
+2025-05-12 16:10:28.996 | ERROR    | __main__:navigate_to_cart:337 - Error navigating to cart: Target page, context or browser has been closed
+2025-05-12 16:10:28.996 | WARNING  | __main__:run:421 - Failed to navigate to cart, but attempting checkout anyway
+2025-05-12 16:10:28.996 | INFO     | __main__:checkout:344 - Navigating to cart...
+2025-05-12 16:10:28.997 | ERROR    | __main__:checkout:387 - Error during checkout: Target page, context or browser has been closed
+2025-05-12 16:10:28.999 | INFO     | __main__:close:49 - Browser closed
+2025-05-12 16:14:15.842 | INFO     | __main__:main:471 - Starting JD Auto Buyer
+2025-05-12 16:14:15.842 | INFO     | __main__:main:475 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:14:15.842 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:14:17.174 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:14:18.604 | INFO     | __main__:login:54 - Successfully logged in with cookies
+2025-05-12 16:14:18.604 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 16:17:42.703 | INFO     | __main__:main:499 - Starting JD Auto Buyer
+2025-05-12 16:17:42.703 | INFO     | __main__:main:503 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:17:42.703 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:17:43.631 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:17:44.924 | INFO     | __main__:login:54 - Successfully logged in with cookies
+2025-05-12 16:17:44.924 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 16:19:13.590 | INFO     | __main__:main:499 - Starting JD Auto Buyer
+2025-05-12 16:19:13.590 | INFO     | __main__:main:503 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:19:13.590 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:19:14.397 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:19:15.839 | INFO     | __main__:login:54 - Successfully logged in with cookies
+2025-05-12 16:19:15.839 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 16:22:54.798 | ERROR    | __main__:search_product:234 - Error searching for 泡面: Target page, context or browser has been closed
+2025-05-12 16:22:54.799 | WARNING  | __main__:run:440 - No products found for 泡面
+2025-05-12 16:32:15.424 | INFO     | __main__:navigate_to_cart:349 - Navigating to shopping cart...
+2025-05-12 16:32:15.428 | WARNING  | __main__:_ensure_page_available:330 - Page was closed, creating a new page
+2025-05-12 16:32:15.428 | ERROR    | __main__:_ensure_page_available:343 - Error ensuring page availability: 'BrowserContext' object has no attribute 'is_closed'
+2025-05-12 16:32:15.430 | WARNING  | __main__:run:479 - Failed to navigate to cart, but attempting checkout anyway
+2025-05-12 16:34:03.662 | INFO     | __main__:main:499 - Starting JD Auto Buyer
+2025-05-12 16:34:03.662 | INFO     | __main__:main:503 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:34:03.662 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:34:04.592 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:34:05.888 | INFO     | __main__:login:54 - Successfully logged in with cookies
+2025-05-12 16:34:05.888 | INFO     | __main__:search_product:184 - Searching for: 泡面
+2025-05-12 16:54:40.285 | INFO     | __main__:main:719 - Starting JD Auto Buyer
+2025-05-12 16:54:40.285 | INFO     | __main__:main:723 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:54:40.285 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:54:41.550 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:54:43.013 | INFO     | __main__:login:121 - Successfully logged in with cookies
+2025-05-12 16:54:43.013 | INFO     | __main__:search_product:237 - Searching for: 泡面
+2025-05-12 16:59:53.635 | INFO     | __main__:main:678 - Starting JD Auto Buyer
+2025-05-12 16:59:53.636 | INFO     | __main__:main:682 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 16:59:53.636 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 16:59:54.526 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 16:59:55.729 | INFO     | __main__:login:124 - No valid cookies found, attempting login...
+2025-05-12 16:59:56.625 | INFO     | __main__:login:131 - Attempting login with username and password
+2025-05-12 16:59:57.194 | INFO     | __main__:_handle_verification:54 - Checking for verification challenges...
+2025-05-12 16:59:57.198 | WARNING  | __main__:_handle_verification:59 - Slide verification detected. Please complete it manually.
+2025-05-12 16:59:57.248 | INFO     | __main__:_handle_verification:62 - Verification screenshot saved to /Users/mingweili/72hours/jd_auto_buyer/screenshots/slide_verification.png
+2025-05-12 17:00:03.469 | INFO     | __main__:_handle_verification:66 - Verification completed!
+2025-05-12 17:00:03.475 | INFO     | __main__:_save_cookies:211 - Cookies saved
+2025-05-12 17:00:03.475 | INFO     | __main__:run:657 - Login successful. Navigating to shopping cart...
+2025-05-12 17:00:03.475 | INFO     | __main__:navigate_to_cart:487 - Navigating to shopping cart...
+2025-05-12 17:00:06.156 | INFO     | __main__:_handle_verification:54 - Checking for verification challenges...
+2025-05-12 17:00:10.404 | INFO     | __main__:_handle_verification:54 - Checking for verification challenges...
+2025-05-12 17:00:10.436 | WARNING  | __main__:navigate_to_cart:558 - Cart page may not have loaded correctly (attempt 1/3)
+2025-05-12 17:00:10.437 | INFO     | __main__:navigate_to_cart:562 - Trying alternative cart URL: https://cart.jd.com/cart_index
+2025-05-12 17:00:11.154 | INFO     | __main__:navigate_to_cart:574 - Waiting 2s before retry...
+2025-05-12 17:00:15.805 | INFO     | __main__:_handle_verification:54 - Checking for verification challenges...
+2025-05-12 17:00:15.840 | WARNING  | __main__:navigate_to_cart:558 - Cart page may not have loaded correctly (attempt 2/3)
+2025-05-12 17:00:15.840 | INFO     | __main__:navigate_to_cart:574 - Waiting 4s before retry...
+2025-05-12 17:01:14.272 | INFO     | __main__:main:673 - Starting JD Auto Buyer
+2025-05-12 17:01:14.273 | INFO     | __main__:main:677 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 17:01:14.273 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 17:01:15.773 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 17:01:17.271 | INFO     | __main__:login:121 - Successfully logged in with cookies
+2025-05-12 17:01:17.272 | INFO     | __main__:run:657 - Successfully logged in, navigating to homepage
+2025-05-12 17:01:18.199 | INFO     | __main__:run:660 - Now on homepage. Session is active.
+2025-05-12 17:03:05.080 | INFO     | __main__:main:673 - Starting JD Auto Buyer
+2025-05-12 17:03:05.080 | INFO     | __main__:main:677 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 17:03:05.080 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 17:03:05.919 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 17:03:07.355 | INFO     | __main__:login:121 - Successfully logged in with cookies
+2025-05-12 17:03:07.355 | INFO     | __main__:run:657 - Successfully logged in, navigating to homepage
+2025-05-12 17:03:08.478 | INFO     | __main__:run:660 - Now on homepage. Session is active.
+2025-05-12 17:11:01.445 | INFO     | __main__:main:853 - Starting JD Auto Buyer
+2025-05-12 17:11:01.445 | INFO     | __main__:main:857 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 17:11:01.445 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 17:11:02.315 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 17:11:03.863 | INFO     | __main__:login:124 - No valid cookies found, attempting login...
+2025-05-12 17:11:04.533 | INFO     | __main__:login:131 - Attempting login with username and password
+2025-05-12 17:11:05.282 | INFO     | __main__:_handle_verification:54 - Checking for verification challenges...
+2025-05-12 17:11:05.285 | WARNING  | __main__:_handle_verification:59 - Slide verification detected. Please complete it manually.
+2025-05-12 17:11:05.337 | INFO     | __main__:_handle_verification:62 - Verification screenshot saved to /Users/mingweili/72hours/jd_auto_buyer/screenshots/slide_verification.png
+2025-05-12 17:11:11.422 | INFO     | __main__:_handle_verification:66 - Verification completed!
+2025-05-12 17:11:11.431 | INFO     | __main__:_save_cookies:211 - Cookies saved
+2025-05-12 17:11:11.431 | INFO     | __main__:run:837 - Successfully logged in, navigating to homepage
+2025-05-12 17:11:12.358 | INFO     | __main__:run:840 - Now on homepage. Session is active.
+2025-05-12 17:19:45.829 | INFO     | __main__:main:1006 - Starting JD Auto Buyer
+2025-05-12 17:19:45.830 | INFO     | __main__:main:1010 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 17:19:45.830 | INFO     | __main__:setup:40 - Setting up browser...
+2025-05-12 17:19:46.670 | INFO     | __main__:setup:57 - Using user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0
+2025-05-12 17:19:47.240 | INFO     | __main__:setup:106 - Browser setup completed
+2025-05-12 17:19:48.329 | INFO     | __main__:login:224 - No valid cookies found, attempting login...
+2025-05-12 17:19:49.493 | INFO     | __main__:login:231 - Attempting login with username and password
+2025-05-12 17:19:50.215 | INFO     | __main__:_handle_verification:154 - Checking for verification challenges...
+2025-05-12 17:20:00.242 | ERROR    | __main__:login:269 - Login failed: 请输入密码
+2025-05-12 17:20:00.243 | INFO     | __main__:login:274 - Falling back to QR code login
+2025-05-12 17:20:00.313 | INFO     | __main__:login:288 - QR code saved to /Users/mingweili/72hours/jd_auto_buyer/screenshots/qr_code.png
+2025-05-12 17:20:00.313 | INFO     | __main__:login:289 - Please scan the QR code with your JD app to login
+2025-05-12 17:22:00.317 | ERROR    | __main__:login:300 - Login timeout. Please try again.
+2025-05-12 17:22:00.318 | ERROR    | __main__:run:986 - Login failed, exiting
+2025-05-12 17:22:00.418 | INFO     | __main__:close:149 - Browser closed
+2025-05-12 17:23:38.347 | INFO     | __main__:main:853 - Starting JD Auto Buyer
+2025-05-12 17:23:38.347 | INFO     | __main__:main:857 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 17:23:38.347 | INFO     | __main__:setup:27 - Setting up browser...
+2025-05-12 17:23:39.707 | INFO     | __main__:setup:43 - Browser setup completed
+2025-05-12 17:23:41.188 | INFO     | __main__:login:121 - Successfully logged in with cookies
+2025-05-12 17:23:41.188 | INFO     | __main__:run:837 - Successfully logged in, navigating to homepage
+2025-05-12 17:23:41.915 | INFO     | __main__:run:840 - Now on homepage. Session is active.
+2025-05-12 17:31:46.681 | INFO     | __main__:main:1101 - Starting JD Auto Buyer
+2025-05-12 17:31:46.681 | INFO     | __main__:main:1105 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 17:31:46.681 | INFO     | __main__:setup:27 - Setting up browser with anti-bot evasion...
+2025-05-12 17:31:47.536 | INFO     | __main__:setup:120 - Enhanced browser setup completed
+2025-05-12 17:31:49.202 | INFO     | __main__:login:198 - Successfully logged in with cookies
+2025-05-12 17:31:49.202 | INFO     | __main__:run:1085 - Successfully logged in, navigating to homepage
+2025-05-12 17:31:52.259 | INFO     | __main__:run:1088 - Now on homepage. Session is active.
+2025-05-12 18:26:59.611 | INFO     | __main__:main:1395 - Starting JD Auto Buyer
+2025-05-12 18:26:59.611 | INFO     | __main__:main:1399 - Username and password found in environment variables. Will attempt account login.
+2025-05-12 18:26:59.611 | INFO     | __main__:setup:27 - Setting up browser with anti-bot evasion...
+2025-05-12 18:27:01.176 | INFO     | __main__:setup:227 - Enhanced browser setup completed
+2025-05-12 18:27:03.245 | INFO     | __main__:login:305 - Successfully logged in with cookies
+2025-05-12 18:27:03.245 | INFO     | __main__:run:1379 - Successfully logged in, navigating to homepage
+2025-05-12 18:27:04.869 | INFO     | __main__:run:1382 - Now on homepage. Session is active.
